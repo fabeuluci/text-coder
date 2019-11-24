@@ -1,0 +1,15 @@
+{
+  "name": "text-coder",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Fabeuluci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fabeuluci/text-coder.git"
+  },
+  "main": "node/index.js",
+  "browser": "browser/index.js",
+  "typings": "index.d.ts"
+}
